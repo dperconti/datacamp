@@ -1,0 +1,264 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/donato/Projects/overlay-cookbook-sic/roles/base.json",
+		"/Users/donato/Projects/SIC/postman-workflow-collections-sic/README.md",
+		"/Users/donato/Projects/overlay-cookbook-sic/vagrants/default/Vagrantfile",
+		"/Users/donato/Projects/overlay-cookbook-sic/vagrants/default/.vagrant/machines/overlay/virtualbox/action_set_name",
+		"/Users/donato/Projects/chef-sla-sic/CHANGELOG.md",
+		"/Users/donato/Projects/chef-sla-sic/attributes/default.rb",
+		"/Users/donato/Projects/chef-sla-sic/templates/default/application.conf.erb",
+		"/Users/donato/Projects/overlay-cookbook-sic/roles/lla.json",
+		"/Users/donato/Projects/overlay-cookbook-sic/roles/sla.json",
+		"/Users/donato/Projects/chef-sla-sic/README.md",
+		"/Users/donato/Projects/overlay-cookbook-sic/Berksfile",
+		"/Users/donato/Projects/chef-sla-sic/recipes/default.rb",
+		"/Users/donato/Projects/chef-sla-sic/templates/default/config.json.erb",
+		"/Users/donato/Desktop/aws.txt",
+		"/Users/donato/Projects/TRP/overlay-cookbook-trp/CHANGELOG.md",
+		"/Users/donato/Desktop/vagrant.txt",
+		"/Users/donato/Desktop/1.txt",
+		"/Users/donato/Desktop/2.txt",
+		"/Users/donato/Desktop/Personal/CamasLL/Camas Little League Email List.txt",
+		"/{",
+		"/Users/donato/Desktop/1",
+		"/Users/donato/Desktop/2",
+		"/Users/donato/Desktop/VagrantSucks",
+		"/Users/donato/Desktop/logs.txt",
+		"/Users/donato/Desktop/Syntegrity/NOTES.md",
+		"/Users/donato/Desktop/doc.txt",
+		"/Users/donato/Desktop/shit.txt",
+		"/Users/donato/Desktop/SYS",
+		"/Users/donato/Desktop/ACC",
+		"/Users/donato/Desktop/INT_2",
+		"/Users/donato/Desktop/INT_1",
+		"/Users/donato/Projects/overlay-cookbook-trp/roles/lla.json",
+		"/Users/donato/Projects/cloudentityjs/package.json",
+		"/Users/donato/Projects/cloudentityjs/webpack.config.js",
+		"/Users/donato/Desktop/swagger (1).json",
+		"/Users/donato/Desktop/RM_receipts.json"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Your Request for User N",
+			"Your Password was Changed",
+			"CAN_SELF_CHANGE_PASSWORD",
+			"\"CAN_SELF_CHANGE_PASSWORD\"",
+			"CAN_SELF_CHANGE_PASSWORD",
+			"SelfChangePassword",
+			"Change to Your Primary Email Address",
+			"Your Email Address Was Changed",
+			"Change to Your Primary Email Address",
+			"Your Email Address Was Changed",
+			"Change to Your Primary Email Address",
+			"Your Email Address Was Changed",
+			"Change to Your Primary Email Address",
+			"Your Email Address Was Changed",
+			"Change to Your Primary Email Address",
+			"Your Email Address Was Changed",
+			"stringMask",
+			"Here is your username",
+			"Your Email Address Was Changed",
+			"Change to Your Primary Email Address",
+			"Your Email Address Was Changed",
+			"Change to Your Primary Email Address",
+			"default_email_changed_template_title",
+			"Change to Your Primary Email Address",
+			"Your Request for User Name",
+			"update_hosts",
+			"roles/base.json"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
