@@ -101,3 +101,9 @@ df.to_json(filename)                                            # Writes to a fi
 df.to_html(filename)                                            # Saves as an HTML table
 df.to_clipboard()                                               # Writes to the clipboard
 ```
+
+## General Algorithms
+
+```
+data[::-1]                                            # Reverse an array
+```
