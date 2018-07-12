@@ -105,5 +105,11 @@ df.to_clipboard()                                               # Writes to the 
 ## General Algorithms
 
 ```
-data[::-1]                                            # Reverse an array
+data[::-1]                                                      # Reverse an array
+```
+
+## Regex Shortcuts
+
+```
+[ \t]{2,}                                                      # matches 2 or more spaces or tabs.
 ```
